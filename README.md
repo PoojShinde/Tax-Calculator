@@ -1,3 +1,5 @@
 # Tax-Calculator
-![image](https://github.com/PoojShinde/Tax-Calculator/assets/95605376/c1bd86fb-ab98-401c-9cdf-329d3e0bfc6b)
-![image](https://github.com/PoojShinde/Tax-Calculator/assets/95605376/bac66074-cd71-4736-ae73-d49423a5d6ce)
+![image](https://github.com/PoojShinde/Tax-Calculator/assets/95605376/975260f7-c47f-456f-9314-24a83bc82143)
+![image](https://github.com/PoojShinde/Tax-Calculator/assets/95605376/e1805089-1a7e-48d4-9152-09a4d9035e4d)
+
+
